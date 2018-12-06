@@ -1,0 +1,22 @@
+{
+  "name": "@jan.werkhoven/ember-cli-deploy-nabu",
+  "version": "0.0.1",
+  "description": "Deploys your Fastboot powered Ember app to your server with SSH and a reliable build sequence.",
+  "license": "MIT",
+  "homepage": "https://github.com/janwerkhoven/ember-cli-deploy-nabu",
+  "repository": "https://github.com/janwerkhoven/ember-cli-deploy-nabu",
+  "author": {
+    "name": "Jan Werkhoven",
+    "email": "jw@nabu.io",
+    "url": "github.com/janwerkhoven"
+  },
+  "maintainers": [
+    "Jan Werkhovne <jw@nabu.io> (github.com/janwerkhoven)"
+  ],
+  "keywords": [
+    "ember",
+    "ember-cli",
+    "ember-cli-deploy",
+    "ember-cli-deploy-plugin"
+  ]
+}
